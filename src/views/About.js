@@ -8,7 +8,7 @@ export default class About extends Component {
             <div>
                 <h1>{this.props.title}</h1>
                 <h1> This is the about page. </h1>
-                <p> I am trying to write a React app. Not going well. </p>
+                <p> I am trying to write a React app.</p>
             </div>
         )
     }
